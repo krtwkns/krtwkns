@@ -14,8 +14,7 @@ As a software engineer, I want to pursue the whole field of software engineer. E
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on @gojek;
-- 👨🏼‍🎓 I'm currently studying on Master's Degree in Information Technology, University of Indonesia;
+- 👨🏻‍💻 I’m currently working @gojek;
 - 📫 How to reach me: ekanuraga@gmail.com;
 
 </br>
