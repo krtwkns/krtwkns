@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@kretawiweka)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kretawiweka.kretawiweka)
+### Glad to see you here!
 
 As a software engineer, I want to pursue the whole field of software engineer. Even though in my career I have been focusing more on frontend engineering, but I also like to explore and discuss the whole field of software engineering and even like to discuss about business and design
 
