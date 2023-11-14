@@ -14,18 +14,3 @@ As a software engineer, I want to pursue the whole field of software engineer. E
 
 - 👨🏻‍💻 I’m currently working @gojek;
 - 📫 How to reach me: ekanuraga@gmail.com;
-
-</br>
-
-
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krtwkns&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtwkns&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-
-
-
