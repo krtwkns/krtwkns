@@ -1,4 +1,4 @@
-### Hi, I'm <a href="https://kretawiweka.haveone.space/" target="_blank">Kretawiweka Nuraga Sani</a>
+### Hi, I'm Kretawiweka Nuraga Sani
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kretawiweka/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kretawiweka.site/)
@@ -12,5 +12,5 @@ As a software engineer, I want to pursue the whole field of software engineer. E
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working @goto as Senior Software Engineer;
+- 👨🏻‍💻 I’m currently working @[goto](https://github.com/goto) as Senior Software Engineer;
 - 📫 How to reach me: ekanuraga@gmail.com;
