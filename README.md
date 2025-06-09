@@ -12,5 +12,5 @@ As a software engineer, I want to pursue the whole field of software engineer. E
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working @gojek;
+- 👨🏻‍💻 I’m currently working @goto as Senior Software Engineer;
 - 📫 How to reach me: ekanuraga@gmail.com;
